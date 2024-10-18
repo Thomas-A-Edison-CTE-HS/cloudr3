@@ -1,6 +1,6 @@
 body {
   background: #8d531c;
-     }
+}
 h1 {
   font-weight: bold;
   color: black;
@@ -9,12 +9,12 @@ h1 {
   background: orange;
   text-decoration: underline;
   letter-spacing: 5px;
-   }
+}
   p {
     color: black;
     text-align: center;
     font-family: cursive;
-    }
+}
     h3 {
       text-align: center;
       text-decoration: underline double;
@@ -22,4 +22,4 @@ h1 {
       background: black;
       text-shadow: 2px -2px red;
       letter-spacing: 3px;
-      }
+}
