@@ -1,6 +1,25 @@
+body {
+  background: #8d531c;
+     }
 h1 {
-    text-align: center;
-  }
-p {
+  font-weight: bold;
+  color: black;
   text-align: center;
-}
+  text-shadow: -2px 2px yellow;
+  background: orange;
+  text-decoration: underline;
+  letter-spacing: 5px;
+   }
+  p {
+    color: black;
+    text-align: center;
+    font-family: cursive;
+    }
+    h3 {
+      text-align: center;
+      text-decoration: underline double;
+      color: orange;
+      background: black;
+      text-shadow: 2px -2px red;
+      letter-spacing: 3px;
+      }
