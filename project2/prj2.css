@@ -1,0 +1,12 @@
+body {
+    background: rgb(255, 213, 220);
+}
+h1 {
+    font-weight: bold;
+    color: rgb(178, 145, 255);
+    text-align: center;
+    text-shadow: -2px 2px rgb(183, 255, 150);
+    background: rgb(255, 182, 255);
+    text-decoration: underline;
+    letter-spacing: 5px;
+    font-family: cursive;
