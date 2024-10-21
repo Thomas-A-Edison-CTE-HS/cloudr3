@@ -23,3 +23,11 @@ background: black;
 text-shadow: 2px -2px red;
 letter-spacing: 3px;
 }
+
+img {
+    margin: 10px;
+    border-color: darkorange;
+    border-width: 4px;
+    border-style: solid;
+    border-radius: 10px;
+}
