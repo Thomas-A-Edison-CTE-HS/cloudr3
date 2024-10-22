@@ -11,3 +11,9 @@ h1 {
     letter-spacing: 5px;
     font-family: cursive;
 }
+
+p {
+    text-align: center;
+    color: plum;
+    font-family:'Courier New', Courier, monospace;
+}
