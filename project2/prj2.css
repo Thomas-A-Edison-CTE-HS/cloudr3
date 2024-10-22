@@ -5,11 +5,25 @@ h1 {
     font-weight: bold;
     color: pink;
     text-align: center;
-    text-shadow: lightcoral;
+    text-shadow: -2px 2px lightcoral;
     background: lightyellow;
     text-decoration: underline;
     letter-spacing: 5px;
-    font-family: cursive;
+}
+
+h2 {
+    color: pink;
+    text-shadow: 2px -2px rgb(228, 161, 255);
+}
+
+h3 {
+    color: pink;
+    text-shadow: 2px -2px rgb(228, 161, 255);
+}
+
+h5 {
+    color: pink;
+    text-shadow: 2px -2px rgb(228, 161, 255);
 }
 
 p {
