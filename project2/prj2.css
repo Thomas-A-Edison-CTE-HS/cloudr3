@@ -50,3 +50,7 @@ img {
     border-style: dashed;
     border-radius: 10px;
 }
+
+hr {
+    color: blueviolet;
+}
