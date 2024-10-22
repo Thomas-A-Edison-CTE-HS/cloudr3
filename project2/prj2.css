@@ -14,20 +14,32 @@ h1 {
 h2 {
     color: pink;
     text-shadow: 2px -2px rgb(228, 161, 255);
+    background: lightyellow;
+    text-decoration: underline;
+    font-family: cursive;
+    letter-spacing: 3px;
 }
 
 h3 {
     color: pink;
     text-shadow: 2px -2px rgb(228, 161, 255);
+    background: lightyellow;
+    text-decoration: underline;
+    font-family: cursive;
+    letter-spacing: 3px;
 }
 
 h5 {
     color: pink;
     text-shadow: 2px -2px rgb(228, 161, 255);
+    background: lightyellow;
+    text-decoration: underline;
+    font-family: cursive;
+    letter-spacing: 3px;
 }
 
 p {
     text-align: center;
-    color: plum;
+    color: pink;
     font-family:'Courier New', Courier, monospace;
 }
