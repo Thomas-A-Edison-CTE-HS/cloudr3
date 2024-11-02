@@ -85,5 +85,5 @@ body {
     border: 6px orange solid;
     justify-content: center;
     align-items: center;
-    background-color: black;
+    background-color: rgb(100, 100, 100);
   }
