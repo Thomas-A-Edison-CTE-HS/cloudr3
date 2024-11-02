@@ -51,11 +51,6 @@ div {
 }
 
 .abtme {
-  flex-grow: 1px;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   display: flex;
-}
-
-.info > p {
-    
 }
