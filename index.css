@@ -36,18 +36,21 @@ div {
 }
 
 .img1 {
-    float: left;
     margin: 25px;
+    height: 300px;
+    margin: 200px;
 }
 
 .img2 {
-    float: right;
-  margin: 25px;
+    margin: 25px;
+    height: 400px;
+    margin: 300px;
 }
 
 .img3 {
-    float: left;
     margin: 25px;
+    height: 400px;
+    margin: 300px;
 }
 
 .abtme {
