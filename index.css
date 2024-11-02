@@ -33,6 +33,7 @@ img {
 
 div {
     border:  5px red dashed;
+    display: flex;
 }
 
 .img1 {
@@ -63,4 +64,5 @@ div {
 .info {
     height: auto;
     width: auto;
+    text-align: center;
 }
