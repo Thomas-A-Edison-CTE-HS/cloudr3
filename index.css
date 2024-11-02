@@ -68,7 +68,7 @@ body {
   
   .info {
     height: auto;
-    width: 400;
+    width: 400px;
     text-align: center;
     margin: 150px;
     border: 4px dotted black;
