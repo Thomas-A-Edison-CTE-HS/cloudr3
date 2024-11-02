@@ -67,10 +67,10 @@ body {
   }
   
   .info {
-    height: 400px;
-    width: 600px;
+    height: auto;
+    width: auto;
     text-align: center;
-    margin: 150px;
+    margin: 0;
     border: 4px dotted black;
   }
   
