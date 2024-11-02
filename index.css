@@ -71,14 +71,14 @@ body {
     height: auto;
     width: auto;
     text-align: center;
-    margin: 100px;
+    margin: 75px;
     border: 4px dotted black;
   }
   
   .container {
     text-align: center;
     font-size: large;
-    border: 6px aqua solid;
+    border: 6px orange solid;
     justify-content: center;
     align-items: center;
     background-color: whitesmoke;
