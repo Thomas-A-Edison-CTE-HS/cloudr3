@@ -33,4 +33,17 @@ img {
 
 div {
     border:  5px red dashed;
+    justify-content: space-around;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.img1-3 {
+    float: left;
+    margin: 25px;
+}
+
+#img2 {
+    float: right;
+  margin: 25px;
 }
