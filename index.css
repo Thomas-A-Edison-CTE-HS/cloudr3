@@ -33,9 +33,6 @@ img {
 
 div {
     border:  5px red dashed;
-    justify-content: space-around;
-    display: flex;
-    flex-wrap: nowrap;
 }
 
 #img1 {
@@ -51,4 +48,15 @@ div {
 #img3 {
     float: left;
     margin: 25px;
+}
+
+.abtme {
+  flex-grow: 1px;
+  flex-wrap: wrap;
+  display: flex;
+  height: 300px;
+}
+
+.info > p {
+    text-align: center;
 }
