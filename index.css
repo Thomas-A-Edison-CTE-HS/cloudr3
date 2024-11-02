@@ -36,6 +36,10 @@ body {
     transform: scale(1.05);
   }
   
+  hr {
+    color: darkorange
+  }
+
   div {
     border:  5px red dashed;
     display: flex;
