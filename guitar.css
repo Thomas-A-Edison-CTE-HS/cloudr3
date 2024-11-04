@@ -1,3 +1,9 @@
+p {
+    color: black;
+    text-align: center;
+    font-family: cursive;
+  }
+
 #link-home {
     text-align: center;
     font-size: large;
