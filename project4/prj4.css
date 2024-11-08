@@ -11,6 +11,18 @@ body {
   div {
     border:  3px black solid;
   }
+
+  #link-home {
+    text-align: center;
+    font-size: large;
+    border: none;
+  }
+  
+  #Link-home-text {
+    text-align: center;
+    font-size: large;
+  }
+
   .container{
     background-image: url('PixARTbackground_alt.jpeg');
     background-size: cover; /* Ensures the image covers the entire element */
